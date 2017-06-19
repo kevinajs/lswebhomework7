@@ -4,9 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array - An array is like a basket of fruit with numbered sticky notes on them. Each fruit could have different characteristics and be of different types. You can select whichever piece you want by figuring out which sticky note number is on it.
+
+	* Object - An object is something that can be used to hold characteristics of something specific. For example if you wanted to create an object for cars you may have values relating to type, speed, and brand. You can then use this object to store multiple records and refer back to them as necessary.
+
+	* Method - A method is stored within an object and can be used to to perform actions within the object. For example, if you had two properties within a person object, one being first name and one being last name, you could create a method that combines the two and returns them.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
